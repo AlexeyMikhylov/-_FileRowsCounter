@@ -13,5 +13,6 @@ int main()
 
     printf("there is %d rows in file", counter);
     fclose(file);
+
     return 0;
 }
